@@ -27,5 +27,7 @@ This project aims to provide a clean and user-friendly interface for tracking da
 images
 login page
 ![UI Preview](https://github.com/ThirupatiSreedhar/Expense-tracker/blob/13e2c6d42980927dd6ee012343b34018163012ae/Screenshot%20(9).png)
+#Calculation page
+![uo preview](https://github.com/ThirupatiSreedhar/Expense-tracker/blob/54d956aa5a17c52cd8000f208fcdb69d4d1d7c57/Screenshot%20(10).png)
 
 
